@@ -3,7 +3,7 @@
 - Vpn ile bağlanılır
 - Laptop yoksa bağlanılamaz
 
--JS Dosyalarından itemleri fiyatları ayarlıyabilrisiniz
+- JS Dosyalarından itemleri fiyatları ayarlıyabilrisiniz
 
 Gerekli Scriptler:
 - https://github.com/ONyambura/mythic_progbar
