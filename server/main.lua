@@ -24,3 +24,25 @@ ESX.RegisterUsableItem('vpn', function(source)
     TriggerClientEvent('esx:showNotification', src, 'Üzerinde ... yok')
   end
 end)
+
+local onaylandi = false
+Citizen.CreateThread(function()
+    while true do
+        local dope = GetCurrentResourceName()
+        if dope == 'bros-blackmarket' then --tırnak içerisindeki yere scriptin adını girin.
+            print('Bros')
+            onaylandi = true
+        if onaylandi == true then
+            Citizen.Wait(1000)
+            break
+        else
+            print('^3bros-blackmarketin ismini eski haline getiriniz.^0')
+            Citizen.Wait(5000)
+            os.exit()
+            Citizen.Wait(2500)
+            os.exit()
+            Citizen.Wait(50000)
+        end
+        end
+    end
+end)
