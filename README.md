@@ -11,3 +11,8 @@ Gerekli Scriptler:
 Youtube: https://youtu.be/Kq0zU2SPXSc
 
 Discord adresimiz:  https://discord.gg/YUf3Pm4
+
+- V2 Güncelleme
+- Daha optimize animasyon eklend,.
+- Polis bildirimi eklendi.
+- Hack Ekranı Eklendi
